@@ -1,8 +1,8 @@
 {
-  "version": "Russia by Senya3",
+  "version": "Russia by Senya",
   "routingItems": [
     {
-      "remarks": "",
+      "remarks": "18.11.2026",
       "domainStrategy": "AsIs",
       "url": "https://raw.githubusercontent.com/SenyaBotyara/Russia-by-Senya/refs/heads/main/routing.json"
     }
